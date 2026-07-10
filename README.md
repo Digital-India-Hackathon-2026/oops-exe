@@ -1,3 +1,1 @@
-# Oops.exe
-
-Repository for Hackathon Team Oops.exe.
+AUTRYST – AI Health Twin for Continuous Preventive Care
